@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "http://param-hugo.netlify.app"
 languageCode = "en-us"
 title = "Awesome Lighting Inc."
 theme = "hugo-shopping-product-catalogue-simple"
